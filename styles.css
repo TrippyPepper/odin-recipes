@@ -1,0 +1,7 @@
+body.main {
+    background-image: url("https://imgs.search.brave.com/ksiMEE_302FyEmH952eN7v4tDSXhZtFInmfHl-v-xEw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNzgz/NjQ0NzAvcGhvdG8v/cmVzdGF1cmFudC1t/ZW51LmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1qT1lIamNt/Q0ZpM1VnNmtqeXVD/S0UyZllyTjdmeEFQ/bWxNcHFSTnh6QWpj/PQ") ;
+}
+
+h1 {
+    border: 1px solid green;
+}
